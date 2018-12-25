@@ -1,0 +1,1402 @@
+[
+  {
+    "value": "5",
+    "synonyms": [
+      "5",
+      "Avenue Road"
+    ]
+  },
+  {
+    "value": "6",
+    "synonyms": [
+      "6",
+      "Bay"
+    ]
+  },
+  {
+    "value": "7",
+    "synonyms": [
+      "7",
+      "Bathurst"
+    ]
+  },
+  {
+    "value": "8",
+    "synonyms": [
+      "8",
+      "Broadview"
+    ]
+  },
+  {
+    "value": "9",
+    "synonyms": [
+      "9",
+      "Bellamy"
+    ]
+  },
+  {
+    "value": "10",
+    "synonyms": [
+      "10",
+      "Van Horne"
+    ]
+  },
+  {
+    "value": "11",
+    "synonyms": [
+      "11",
+      "Bayview"
+    ]
+  },
+  {
+    "value": "12",
+    "synonyms": [
+      "12",
+      "Kingston Road"
+    ]
+  },
+  {
+    "value": "14",
+    "synonyms": [
+      "14",
+      "Glencairn"
+    ]
+  },
+  {
+    "value": "15",
+    "synonyms": [
+      "15",
+      "Evans"
+    ]
+  },
+  {
+    "value": "16",
+    "synonyms": [
+      "16",
+      "McCowan"
+    ]
+  },
+  {
+    "value": "17",
+    "synonyms": [
+      "17",
+      "Birchmount"
+    ]
+  },
+  {
+    "value": "20",
+    "synonyms": [
+      "20",
+      "Cliffside"
+    ]
+  },
+  {
+    "value": "21",
+    "synonyms": [
+      "21",
+      "Brimley"
+    ]
+  },
+  {
+    "value": "22",
+    "synonyms": [
+      "22",
+      "Coxwell"
+    ]
+  },
+  {
+    "value": "23",
+    "synonyms": [
+      "23",
+      "Dawes"
+    ]
+  },
+  {
+    "value": "24",
+    "synonyms": [
+      "24",
+      "Victoria Park"
+    ]
+  },
+  {
+    "value": "25",
+    "synonyms": [
+      "25",
+      "Don Mills"
+    ]
+  },
+  {
+    "value": "26",
+    "synonyms": [
+      "26",
+      "Dupont"
+    ]
+  },
+  {
+    "value": "28",
+    "synonyms": [
+      "28",
+      "Bayview South"
+    ]
+  },
+  {
+    "value": "29",
+    "synonyms": [
+      "29",
+      "Dufferin"
+    ]
+  },
+  {
+    "value": "30",
+    "synonyms": [
+      "30",
+      "Lambton"
+    ]
+  },
+  {
+    "value": "31",
+    "synonyms": [
+      "31",
+      "Greenwood"
+    ]
+  },
+  {
+    "value": "32",
+    "synonyms": [
+      "32",
+      "Eglinton West"
+    ]
+  },
+  {
+    "value": "33",
+    "synonyms": [
+      "33",
+      "Forest Hill"
+    ]
+  },
+  {
+    "value": "34",
+    "synonyms": [
+      "34",
+      "Eglinton East"
+    ]
+  },
+  {
+    "value": "35",
+    "synonyms": [
+      "35",
+      "Jane"
+    ]
+  },
+  {
+    "value": "36",
+    "synonyms": [
+      "36",
+      "Finch West"
+    ]
+  },
+  {
+    "value": "37",
+    "synonyms": [
+      "37",
+      "Islington"
+    ]
+  },
+  {
+    "value": "38",
+    "synonyms": [
+      "38",
+      "Highland Creek"
+    ]
+  },
+  {
+    "value": "39",
+    "synonyms": [
+      "39",
+      "Finch East"
+    ]
+  },
+  {
+    "value": "40",
+    "synonyms": [
+      "40",
+      "Junction"
+    ]
+  },
+  {
+    "value": "41",
+    "synonyms": [
+      "41",
+      "Keele"
+    ]
+  },
+  {
+    "value": "42",
+    "synonyms": [
+      "42",
+      "Cummer"
+    ]
+  },
+  {
+    "value": "43",
+    "synonyms": [
+      "43",
+      "Kennedy"
+    ]
+  },
+  {
+    "value": "44",
+    "synonyms": [
+      "44",
+      "Kipling South"
+    ]
+  },
+  {
+    "value": "45",
+    "synonyms": [
+      "45",
+      "Kipling"
+    ]
+  },
+  {
+    "value": "46",
+    "synonyms": [
+      "46",
+      "Martin Grove"
+    ]
+  },
+  {
+    "value": "47",
+    "synonyms": [
+      "47",
+      "Lansdowne"
+    ]
+  },
+  {
+    "value": "48",
+    "synonyms": [
+      "48",
+      "Rathburn"
+    ]
+  },
+  {
+    "value": "49",
+    "synonyms": [
+      "49",
+      "Bloor West"
+    ]
+  },
+  {
+    "value": "50",
+    "synonyms": [
+      "50",
+      "Burnhamthorpe"
+    ]
+  },
+  {
+    "value": "51",
+    "synonyms": [
+      "51",
+      "Leslie"
+    ]
+  },
+  {
+    "value": "52",
+    "synonyms": [
+      "52",
+      "Lawrence West"
+    ]
+  },
+  {
+    "value": "53",
+    "synonyms": [
+      "53",
+      "Steeles East"
+    ]
+  },
+  {
+    "value": "54",
+    "synonyms": [
+      "54",
+      "Lawrence East"
+    ]
+  },
+  {
+    "value": "55",
+    "synonyms": [
+      "55",
+      "Warren Park"
+    ]
+  },
+  {
+    "value": "56",
+    "synonyms": [
+      "56",
+      "Leaside"
+    ]
+  },
+  {
+    "value": "57",
+    "synonyms": [
+      "57",
+      "Midland"
+    ]
+  },
+  {
+    "value": "59",
+    "synonyms": [
+      "59",
+      "Maple Leaf"
+    ]
+  },
+  {
+    "value": "60",
+    "synonyms": [
+      "60",
+      "Steeles West"
+    ]
+  },
+  {
+    "value": "61",
+    "synonyms": [
+      "61",
+      "Avenue Road North"
+    ]
+  },
+  {
+    "value": "62",
+    "synonyms": [
+      "62",
+      "Mortimer"
+    ]
+  },
+  {
+    "value": "63",
+    "synonyms": [
+      "63",
+      "Ossington"
+    ]
+  },
+  {
+    "value": "64",
+    "synonyms": [
+      "64",
+      "Main"
+    ]
+  },
+  {
+    "value": "65",
+    "synonyms": [
+      "65",
+      "Parliament"
+    ]
+  },
+  {
+    "value": "66",
+    "synonyms": [
+      "66",
+      "Prince Edward"
+    ]
+  },
+  {
+    "value": "67",
+    "synonyms": [
+      "67",
+      "Pharmacy"
+    ]
+  },
+  {
+    "value": "68",
+    "synonyms": [
+      "68",
+      "Warden"
+    ]
+  },
+  {
+    "value": "69",
+    "synonyms": [
+      "69",
+      "Warden South"
+    ]
+  },
+  {
+    "value": "70",
+    "synonyms": [
+      "70",
+      "O\u0027Connor"
+    ]
+  },
+  {
+    "value": "71",
+    "synonyms": [
+      "71",
+      "Runnymede"
+    ]
+  },
+  {
+    "value": "72",
+    "synonyms": [
+      "72",
+      "Pape"
+    ]
+  },
+  {
+    "value": "73",
+    "synonyms": [
+      "73",
+      "Royal York"
+    ]
+  },
+  {
+    "value": "74",
+    "synonyms": [
+      "74",
+      "Mount Pleasant"
+    ]
+  },
+  {
+    "value": "75",
+    "synonyms": [
+      "75",
+      "Sherbourne"
+    ]
+  },
+  {
+    "value": "76",
+    "synonyms": [
+      "76",
+      "Royal York South"
+    ]
+  },
+  {
+    "value": "77",
+    "synonyms": [
+      "77",
+      "Swansea"
+    ]
+  },
+  {
+    "value": "78",
+    "synonyms": [
+      "78",
+      "St. Andrews"
+    ]
+  },
+  {
+    "value": "79",
+    "synonyms": [
+      "79",
+      "Scarlett Rd."
+    ]
+  },
+  {
+    "value": "80",
+    "synonyms": [
+      "80",
+      "Queensway"
+    ]
+  },
+  {
+    "value": "81",
+    "synonyms": [
+      "81",
+      "Thorncliffe Park"
+    ]
+  },
+  {
+    "value": "82",
+    "synonyms": [
+      "82",
+      "Rosedale"
+    ]
+  },
+  {
+    "value": "83",
+    "synonyms": [
+      "83",
+      "Jones"
+    ]
+  },
+  {
+    "value": "84",
+    "synonyms": [
+      "84",
+      "Sheppard West"
+    ]
+  },
+  {
+    "value": "85",
+    "synonyms": [
+      "85",
+      "Sheppard East"
+    ]
+  },
+  {
+    "value": "86",
+    "synonyms": [
+      "86",
+      "Scarborough"
+    ]
+  },
+  {
+    "value": "87",
+    "synonyms": [
+      "87",
+      "Cosburn"
+    ]
+  },
+  {
+    "value": "88",
+    "synonyms": [
+      "88",
+      "South Leaside"
+    ]
+  },
+  {
+    "value": "89",
+    "synonyms": [
+      "89",
+      "Weston"
+    ]
+  },
+  {
+    "value": "90",
+    "synonyms": [
+      "90",
+      "Vaughan"
+    ]
+  },
+  {
+    "value": "91",
+    "synonyms": [
+      "91",
+      "Woodbine"
+    ]
+  },
+  {
+    "value": "92",
+    "synonyms": [
+      "92",
+      "Woodbine South"
+    ]
+  },
+  {
+    "value": "93",
+    "synonyms": [
+      "93",
+      "Parkview Hills"
+    ]
+  },
+  {
+    "value": "94",
+    "synonyms": [
+      "94",
+      "Wellesley"
+    ]
+  },
+  {
+    "value": "95",
+    "synonyms": [
+      "95",
+      "York Mills"
+    ]
+  },
+  {
+    "value": "96",
+    "synonyms": [
+      "96",
+      "Wilson"
+    ]
+  },
+  {
+    "value": "97",
+    "synonyms": [
+      "97",
+      "Yonge"
+    ]
+  },
+  {
+    "value": "98",
+    "synonyms": [
+      "98",
+      "Senlac"
+    ]
+  },
+  {
+    "value": "99",
+    "synonyms": [
+      "99",
+      "Arrow Road"
+    ]
+  },
+  {
+    "value": "100",
+    "synonyms": [
+      "100",
+      "Flemingdon Park"
+    ]
+  },
+  {
+    "value": "101",
+    "synonyms": [
+      "101",
+      "Downsview Park"
+    ]
+  },
+  {
+    "value": "102",
+    "synonyms": [
+      "102",
+      "Markham Rd."
+    ]
+  },
+  {
+    "value": "104",
+    "synonyms": [
+      "104",
+      "Faywood"
+    ]
+  },
+  {
+    "value": "105",
+    "synonyms": [
+      "105",
+      "Dufferin North"
+    ]
+  },
+  {
+    "value": "106",
+    "synonyms": [
+      "106",
+      "Sentinel"
+    ]
+  },
+  {
+    "value": "107",
+    "synonyms": [
+      "107",
+      "St Regis"
+    ]
+  },
+  {
+    "value": "108",
+    "synonyms": [
+      "108",
+      "Driftwood"
+    ]
+  },
+  {
+    "value": "109",
+    "synonyms": [
+      "109",
+      "Ranee"
+    ]
+  },
+  {
+    "value": "110",
+    "synonyms": [
+      "110",
+      "Islington South"
+    ]
+  },
+  {
+    "value": "111",
+    "synonyms": [
+      "111",
+      "East Mall"
+    ]
+  },
+  {
+    "value": "112",
+    "synonyms": [
+      "112",
+      "West Mall"
+    ]
+  },
+  {
+    "value": "113",
+    "synonyms": [
+      "113",
+      "Danforth Road"
+    ]
+  },
+  {
+    "value": "115",
+    "synonyms": [
+      "115",
+      "Silver Hills"
+    ]
+  },
+  {
+    "value": "116",
+    "synonyms": [
+      "116",
+      "Morningside"
+    ]
+  },
+  {
+    "value": "117",
+    "synonyms": [
+      "117",
+      "Chesswood"
+    ]
+  },
+  {
+    "value": "118",
+    "synonyms": [
+      "118",
+      "Thistle Down"
+    ]
+  },
+  {
+    "value": "119",
+    "synonyms": [
+      "119",
+      "Torbarrie"
+    ]
+  },
+  {
+    "value": "120",
+    "synonyms": [
+      "120",
+      "Calvington"
+    ]
+  },
+  {
+    "value": "121",
+    "synonyms": [
+      "121",
+      " Esplanade"
+    ]
+  },
+  {
+    "value": "122",
+    "synonyms": [
+      "122",
+      "Graydon Hall"
+    ]
+  },
+  {
+    "value": "123",
+    "synonyms": [
+      "123",
+      "Sherway"
+    ]
+  },
+  {
+    "value": "124",
+    "synonyms": [
+      "124",
+      "Sunnybrook"
+    ]
+  },
+  {
+    "value": "125",
+    "synonyms": [
+      "125",
+      "Drewry"
+    ]
+  },
+  {
+    "value": "126",
+    "synonyms": [
+      "126",
+      "Christie"
+    ]
+  },
+  {
+    "value": "127",
+    "synonyms": [
+      "127",
+      "Davenport"
+    ]
+  },
+  {
+    "value": "129",
+    "synonyms": [
+      "129",
+      "McCowan North"
+    ]
+  },
+  {
+    "value": "130",
+    "synonyms": [
+      "130",
+      "Middlefield"
+    ]
+  },
+  {
+    "value": "131",
+    "synonyms": [
+      "131",
+      "Nugget"
+    ]
+  },
+  {
+    "value": "132",
+    "synonyms": [
+      "132",
+      "Milner"
+    ]
+  },
+  {
+    "value": "133",
+    "synonyms": [
+      "133",
+      "Neilson"
+    ]
+  },
+  {
+    "value": "134",
+    "synonyms": [
+      "134",
+      "Progress"
+    ]
+  },
+  {
+    "value": "135",
+    "synonyms": [
+      "135",
+      "Gerrard"
+    ]
+  },
+  {
+    "value": "141",
+    "synonyms": [
+      "141",
+      "Mt.Pleasant Express"
+    ]
+  },
+  {
+    "value": "142",
+    "synonyms": [
+      "142",
+      "Avenue Road Express"
+    ]
+  },
+  {
+    "value": "143",
+    "synonyms": [
+      "143",
+      "Beach Express"
+    ]
+  },
+  {
+    "value": "144",
+    "synonyms": [
+      "144",
+      "Don Valley Express"
+    ]
+  },
+  {
+    "value": "145",
+    "synonyms": [
+      "145",
+      "Humber Bay Express"
+    ]
+  },
+  {
+    "value": "160",
+    "synonyms": [
+      "160",
+      "Bathurst North"
+    ]
+  },
+  {
+    "value": "161",
+    "synonyms": [
+      "161",
+      "Rogers Road"
+    ]
+  },
+  {
+    "value": "162",
+    "synonyms": [
+      "162",
+      "Donway"
+    ]
+  },
+  {
+    "value": "165",
+    "synonyms": [
+      "165",
+      "Weston Rd. North"
+    ]
+  },
+  {
+    "value": "167",
+    "synonyms": [
+      "167",
+      "Pharmacy North"
+    ]
+  },
+  {
+    "value": "168",
+    "synonyms": [
+      "168",
+      "Symington"
+    ]
+  },
+  {
+    "value": "169",
+    "synonyms": [
+      "169",
+      "Huntingwood"
+    ]
+  },
+  {
+    "value": "171",
+    "synonyms": [
+      "171",
+      "Mount Dennis"
+    ]
+  },
+  {
+    "value": "176",
+    "synonyms": [
+      "176",
+      "Mimico GO"
+    ]
+  },
+  {
+    "value": "186",
+    "synonyms": [
+      "186",
+      "Wilson Rocket"
+    ]
+  },
+  {
+    "value": "300",
+    "synonyms": [
+      "300",
+      "Danforth Night Bus"
+    ]
+  },
+  {
+    "value": "301",
+    "synonyms": [
+      "301",
+      "Queen"
+    ]
+  },
+  {
+    "value": "302",
+    "synonyms": [
+      "302",
+      "McCowan Night Bus"
+    ]
+  },
+  {
+    "value": "304",
+    "synonyms": [
+      "304",
+      "King"
+    ]
+  },
+  {
+    "value": "306",
+    "synonyms": [
+      "306",
+      "Carlton"
+    ]
+  },
+  {
+    "value": "307",
+    "synonyms": [
+      "307",
+      "Bathurst Night Bus"
+    ]
+  },
+  {
+    "value": "310",
+    "synonyms": [
+      "310",
+      "Spadina"
+    ]
+  },
+  {
+    "value": "312",
+    "synonyms": [
+      "312",
+      "Junction Night Bus"
+    ]
+  },
+  {
+    "value": "315",
+    "synonyms": [
+      "315",
+      " Brown\u0027S Line Night Bus"
+    ]
+  },
+  {
+    "value": "320",
+    "synonyms": [
+      "320",
+      "Yonge Night Bus"
+    ]
+  },
+  {
+    "value": "322",
+    "synonyms": [
+      "322",
+      "Coxwell Night Bus"
+    ]
+  },
+  {
+    "value": "324",
+    "synonyms": [
+      "324",
+      "Victoria Park Night Bus"
+    ]
+  },
+  {
+    "value": "325",
+    "synonyms": [
+      "325",
+      "Don Mills Night Bus"
+    ]
+  },
+  {
+    "value": "329",
+    "synonyms": [
+      "329",
+      "Dufferin Night Bus"
+    ]
+  },
+  {
+    "value": "332",
+    "synonyms": [
+      "332",
+      "Eglinton West Night Bus"
+    ]
+  },
+  {
+    "value": "334",
+    "synonyms": [
+      "334",
+      "Eglinton East Night Bus"
+    ]
+  },
+  {
+    "value": "335",
+    "synonyms": [
+      "335",
+      "Jane Night Bus"
+    ]
+  },
+  {
+    "value": "336",
+    "synonyms": [
+      "336",
+      "Finch West Night Bus"
+    ]
+  },
+  {
+    "value": "337",
+    "synonyms": [
+      "337",
+      "Islington Night Bus"
+    ]
+  },
+  {
+    "value": "339",
+    "synonyms": [
+      "339",
+      "Finch East Night Bus"
+    ]
+  },
+  {
+    "value": "341",
+    "synonyms": [
+      "341",
+      "Keele Night Bus"
+    ]
+  },
+  {
+    "value": "343",
+    "synonyms": [
+      "343",
+      "Kennedy Night Bus"
+    ]
+  },
+  {
+    "value": "352",
+    "synonyms": [
+      "352",
+      "Lawrence West Night Bus"
+    ]
+  },
+  {
+    "value": "353",
+    "synonyms": [
+      "353",
+      "Steeles Night Bus"
+    ]
+  },
+  {
+    "value": "354",
+    "synonyms": [
+      "354",
+      "Lawrence East Night Bus"
+    ]
+  },
+  {
+    "value": "363",
+    "synonyms": [
+      "363",
+      "Ossington Night Bus"
+    ]
+  },
+  {
+    "value": "365",
+    "synonyms": [
+      "365",
+      "Parliament Night Bus"
+    ]
+  },
+  {
+    "value": "384",
+    "synonyms": [
+      "384",
+      "Sheppard West Night Bus"
+    ]
+  },
+  {
+    "value": "385",
+    "synonyms": [
+      "385",
+      "Sheppard East Night Bus"
+    ]
+  },
+  {
+    "value": "395",
+    "synonyms": [
+      "395",
+      "York Mills Night Bus"
+    ]
+  },
+  {
+    "value": "396",
+    "synonyms": [
+      "396",
+      "Wilson Night Bus"
+    ]
+  },
+  {
+    "value": "501",
+    "synonyms": [
+      "501",
+      "Queen"
+    ]
+  },
+  {
+    "value": "502",
+    "synonyms": [
+      "502",
+      "Downtowner"
+    ]
+  },
+  {
+    "value": "503",
+    "synonyms": [
+      "503",
+      "Kingston Rd. Tripper"
+    ]
+  },
+  {
+    "value": "504",
+    "synonyms": [
+      "504",
+      "King"
+    ]
+  },
+  {
+    "value": "505",
+    "synonyms": [
+      "505",
+      "Dundas"
+    ]
+  },
+  {
+    "value": "506",
+    "synonyms": [
+      "506",
+      "Carlton"
+    ]
+  },
+  {
+    "value": "509",
+    "synonyms": [
+      "509",
+      "Harbourfront"
+    ]
+  },
+  {
+    "value": "510",
+    "synonyms": [
+      "510",
+      "Spadina"
+    ]
+  },
+  {
+    "value": "511",
+    "synonyms": [
+      "511",
+      "Bathurst"
+    ]
+  },
+  {
+    "value": "512",
+    "synonyms": [
+      "512",
+      "St. Clair"
+    ]
+  },
+  {
+    "value": "900",
+    "synonyms": [
+      "900",
+      "Airport Express"
+    ]
+  },
+  {
+    "value": "902",
+    "synonyms": [
+      "902",
+      "Markham Rd Express"
+    ]
+  },
+  {
+    "value": "903",
+    "synonyms": [
+      "903",
+      "Scarborough Centre Express"
+    ]
+  },
+  {
+    "value": "905",
+    "synonyms": [
+      "905",
+      "Eglinton East Express"
+    ]
+  },
+  {
+    "value": "913",
+    "synonyms": [
+      "913",
+      "Progress Express"
+    ]
+  },
+  {
+    "value": "924",
+    "synonyms": [
+      "924",
+      "Victoria Park Express"
+    ]
+  },
+  {
+    "value": "925",
+    "synonyms": [
+      "925",
+      "Don Mills Express"
+    ]
+  },
+  {
+    "value": "927",
+    "synonyms": [
+      "927",
+      "Highway 27 Express"
+    ]
+  },
+  {
+    "value": "929",
+    "synonyms": [
+      "929",
+      "Dufferin Express"
+    ]
+  },
+  {
+    "value": "935",
+    "synonyms": [
+      "935",
+      "Jane Express"
+    ]
+  },
+  {
+    "value": "937",
+    "synonyms": [
+      "937",
+      "Islington Express"
+    ]
+  },
+  {
+    "value": "939",
+    "synonyms": [
+      "939",
+      "Finch Express"
+    ]
+  },
+  {
+    "value": "941",
+    "synonyms": [
+      "941",
+      "Keele Express"
+    ]
+  },
+  {
+    "value": "944",
+    "synonyms": [
+      "944",
+      "Kipling South Express"
+    ]
+  },
+  {
+    "value": "952",
+    "synonyms": [
+      "952",
+      "Lawrence West Express"
+    ]
+  },
+  {
+    "value": "954",
+    "synonyms": [
+      "954",
+      "Lawrence East Express"
+    ]
+  },
+  {
+    "value": "960",
+    "synonyms": [
+      "960",
+      "Steeles West Express"
+    ]
+  },
+  {
+    "value": "984",
+    "synonyms": [
+      "984",
+      "Sheppard West Express"
+    ]
+  },
+  {
+    "value": "985",
+    "synonyms": [
+      "985",
+      "Sheppard East Express"
+    ]
+  },
+  {
+    "value": "989",
+    "synonyms": [
+      "989",
+      "Weston Express"
+    ]
+  },
+  {
+    "value": "995",
+    "synonyms": [
+      "995",
+      "York Mills Express"
+    ]
+  }
+]

@@ -18,6 +18,14 @@
             {
               "lang": "en",
               "value": "What is the stop ID?"
+            },
+            {
+              "lang": "en",
+              "value": "Please say \"stop\" and then the stop ID."
+            },
+            {
+              "lang": "en",
+              "value": "Say stop before saying the stop ID. For example, say \"stop 2303\"."
             }
           ],
           "isList": false
@@ -37,7 +45,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1545616393,
+  "lastUpdate": 1545761748,
   "fallbackIntent": false,
   "events": []
 }

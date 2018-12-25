@@ -1,14 +1,14 @@
 [
   {
-    "value": "@sys.number-integer:branch-number @Branch-Letter:branch-letter",
+    "value": "@Branch-Number:branch-number @Branch-Letter:branch-letter",
     "synonyms": [
-      "@sys.number-integer:branch-number @Branch-Letter:branch-letter"
+      "@Branch-Number:branch-number @Branch-Letter:branch-letter"
     ]
   },
   {
-    "value": "@sys.number-integer:branch-number",
+    "value": "@Branch-Number:branch-number",
     "synonyms": [
-      "@sys.number-integer:branch-number"
+      "@Branch-Number:branch-number"
     ]
   }
 ]
