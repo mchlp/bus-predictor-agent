@@ -12,7 +12,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "To get the arrival times for a specific route, you can ask \"When will the next 42 East bus arrive?\". To get the arrival times for a specific stop when you know the stop ID, ask \"Bus arrival times for stop 2505\". To clear you location, you can say \"Clear location\". To exit, just say \"cancel\" or \"exit\"."
+          "speech": "To get the arrival times for a specific route, you can ask \"When will the next 42 East bus arrive?\" or \"When will the next Cummer East bus arrive?\". To get the arrival times for a specific stop when you know the stop ID, ask \"Bus arrival times for stop 2505\". To clear you location, you can say \"Clear location\". To exit, just say \"cancel\" or \"exit\"."
         }
       ],
       "defaultResponsePlatforms": {},
@@ -22,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1545609414,
+  "lastUpdate": 1545763073,
   "fallbackIntent": false,
   "events": [
     {

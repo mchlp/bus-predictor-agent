@@ -34,8 +34,7 @@
   "webhook": {
     "url": "https://us-central1-bus-predictor-5230f.cloudfunctions.net/dialogflowHandler",
     "headers": {
-      "": "",
-      "key": "MNhckydAghqWDAXDtUlq"
+      "": ""
     },
     "available": true,
     "useForDomains": false,

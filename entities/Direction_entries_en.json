@@ -2,25 +2,33 @@
   {
     "value": "West",
     "synonyms": [
-      "West"
+      "West",
+      "Westbound",
+      "Going West"
     ]
   },
   {
     "value": "East",
     "synonyms": [
-      "East"
+      "East",
+      "Eastbound",
+      "Going East"
     ]
   },
   {
     "value": "North",
     "synonyms": [
-      "North"
+      "North",
+      "Northbound",
+      "Going North"
     ]
   },
   {
     "value": "South",
     "synonyms": [
-      "South"
+      "South",
+      "Southbound",
+      "Going South"
     ]
   }
 ]
