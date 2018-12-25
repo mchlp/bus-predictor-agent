@@ -1,0 +1,43 @@
+{
+  "id": "766cea11-c6c6-441d-ba3c-4e70193cdbf6",
+  "name": "Retrieve-Next-Arrival-Time-By-Stop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "de82a1c5-5560-4e5b-8838-0faab7780eb9",
+          "required": true,
+          "dataType": "@Stop-ID",
+          "name": "Stop-ID",
+          "value": "$Stop-ID",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the stop ID?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545616393,
+  "fallbackIntent": false,
+  "events": []
+}

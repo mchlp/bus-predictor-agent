@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1bb7603c-1d08-4ad6-a1ab-210fdc206f7b",
+    "data": [
+      {
+        "text": "bus times for ",
+        "userDefined": false
+      },
+      {
+        "text": "stop 3262",
+        "alias": "Stop-ID",
+        "meta": "@Stop-ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545608459
+  },
+  {
+    "id": "644aa6c7-bbb8-4ec0-9b66-48f2adfcb317",
+    "data": [
+      {
+        "text": "when will the next bus arrive at ",
+        "userDefined": false
+      },
+      {
+        "text": "stop 2507",
+        "alias": "Stop-ID",
+        "meta": "@Stop-ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545607209
+  },
+  {
+    "id": "7083e974-f571-4425-a072-e08ed20b8859",
+    "data": [
+      {
+        "text": "arrival times for ",
+        "userDefined": false
+      },
+      {
+        "text": "stop 5052",
+        "alias": "Stop-ID",
+        "meta": "@Stop-ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545607209
+  },
+  {
+    "id": "8e7c203b-8034-4345-bcc3-dad4b46fe57d",
+    "data": [
+      {
+        "text": "next bus for ",
+        "userDefined": false
+      },
+      {
+        "text": "stop 1808",
+        "alias": "Stop-ID",
+        "meta": "@Stop-ID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545607209
+  }
+]

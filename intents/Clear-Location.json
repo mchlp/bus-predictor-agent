@@ -1,0 +1,28 @@
+{
+  "id": "378cfb8f-7456-4389-ba81-0a8a897527e8",
+  "name": "Clear-Location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545600692,
+  "fallbackIntent": false,
+  "events": []
+}

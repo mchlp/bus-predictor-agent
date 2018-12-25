@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c7d715b3-f4a7-489d-bb01-07d0e2a244c1",
+    "data": [
+      {
+        "text": "What can I say?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545605252
+  },
+  {
+    "id": "126f3dd9-302e-4478-ae85-e7d516067969",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545605252
+  }
+]

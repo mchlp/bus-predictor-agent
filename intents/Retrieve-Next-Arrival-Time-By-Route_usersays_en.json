@@ -1,0 +1,722 @@
+[
+  {
+    "id": "39818df8-9c16-4c95-add7-cf6fa70ec0a3",
+    "data": [
+      {
+        "text": "next bus for ",
+        "userDefined": false
+      },
+      {
+        "text": "85 a",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "east",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "7deaa2a3-9bcc-423d-a5a5-b21b2020cf37",
+    "data": [
+      {
+        "text": "next bus for ",
+        "userDefined": false
+      },
+      {
+        "text": "54 a",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "east",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "53e14b7f-21b0-4382-8ae0-71a5b3cfe32a",
+    "data": [
+      {
+        "text": "next bus for ",
+        "userDefined": false
+      },
+      {
+        "text": "17 a",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "91ce481f-f434-4e56-818c-470249d19c47",
+    "data": [
+      {
+        "text": "next bus for ",
+        "userDefined": false
+      },
+      {
+        "text": "42",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "east",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "0fb94bee-c758-48e3-ba5f-8b9754ddfc77",
+    "data": [
+      {
+        "text": "next bus for ",
+        "userDefined": false
+      },
+      {
+        "text": "42a",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "east",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "335c52b5-d7fa-44f7-b981-e2a92b63ab83",
+    "data": [
+      {
+        "text": "time until next ",
+        "userDefined": false
+      },
+      {
+        "text": "17a",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": " arrival",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "8a0a171e-2c39-4da4-928c-1ce3cd51e94a",
+    "data": [
+      {
+        "text": "time until next ",
+        "userDefined": false
+      },
+      {
+        "text": "17",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": " arrival",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "b1ec2c25-94b6-4894-9d98-7046a8709357",
+    "data": [
+      {
+        "text": "time until next ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": " arrival",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "6d77d9ab-d345-4071-b10c-d296cfc95504",
+    "data": [
+      {
+        "text": "time until next ",
+        "userDefined": false
+      },
+      {
+        "text": "25b",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": " arrival",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "6a79bc42-c69e-4e3a-b6e7-155aafaea481",
+    "data": [
+      {
+        "text": "arrival time for ",
+        "userDefined": false
+      },
+      {
+        "text": "25b",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "south",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "d10e1cb6-d30d-4496-b8d8-4c4bed0b77b0",
+    "data": [
+      {
+        "text": "when is the next ",
+        "userDefined": false
+      },
+      {
+        "text": "25b",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": " bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "4678194e-639c-4e58-b6ad-f5a46fd7344c",
+    "data": [
+      {
+        "text": "time for next ",
+        "userDefined": false
+      },
+      {
+        "text": "17a",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": " bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "7e42afd9-15fd-44ac-b16f-509dfee2f1b7",
+    "data": [
+      {
+        "text": "when will the next ",
+        "userDefined": false
+      },
+      {
+        "text": "17",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": " bus arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "0bc82f1b-869f-4202-8d14-6e598e9d87e0",
+    "data": [
+      {
+        "text": "time until next ",
+        "userDefined": false
+      },
+      {
+        "text": "42",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "east",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": " bus arrives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "fc4ba42b-5e72-4749-859b-4bdf02b50564",
+    "data": [
+      {
+        "text": "when is the next ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": " bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "58027920-bcfb-4599-830f-3f08ac8e4e56",
+    "data": [
+      {
+        "text": "when is the next ",
+        "userDefined": false
+      },
+      {
+        "text": "17",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": false
+      },
+      {
+        "text": " bus arriving ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "cee3521a-747c-4a06-980b-ff271fe1301a",
+    "data": [
+      {
+        "text": "time for next ",
+        "userDefined": false
+      },
+      {
+        "text": "54a",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "east",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "b893f4c0-eb22-41fe-9d28-559c74b39edf",
+    "data": [
+      {
+        "text": "next arrival time for ",
+        "userDefined": false
+      },
+      {
+        "text": "42",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "west",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1545593599
+  },
+  {
+    "id": "0d49bcba-ee15-4368-b8d9-8e9faa659121",
+    "data": [
+      {
+        "text": "time for next ",
+        "userDefined": false
+      },
+      {
+        "text": "54b",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "east",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "36fdeaf6-cd61-4310-9d65-27b7683632b3",
+    "data": [
+      {
+        "text": "when will the next ",
+        "userDefined": false
+      },
+      {
+        "text": "17a",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": " bus arrive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "1ed37408-f063-48a1-94d1-cd13e1ce3b8a",
+    "data": [
+      {
+        "text": "arrival time for ",
+        "userDefined": false
+      },
+      {
+        "text": "17",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "north",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "94998d9e-58ad-4155-a1d5-16e028a59488",
+    "data": [
+      {
+        "text": "arrival time for ",
+        "userDefined": false
+      },
+      {
+        "text": "54",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "east",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1545593599
+  },
+  {
+    "id": "b5b7c2e6-6f6e-4d09-a211-b4d6c469cf3e",
+    "data": [
+      {
+        "text": "arrival time for ",
+        "userDefined": false
+      },
+      {
+        "text": "54b",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "east",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  },
+  {
+    "id": "3fe7238e-5cfb-4554-b922-cc85e3ceccdd",
+    "data": [
+      {
+        "text": "when will the next ",
+        "userDefined": false
+      },
+      {
+        "text": "42a",
+        "alias": "route-branch",
+        "meta": "@Branch",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "east",
+        "alias": "route-direction",
+        "meta": "@Direction",
+        "userDefined": false
+      },
+      {
+        "text": " bus arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545593599
+  }
+]

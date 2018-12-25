@@ -1,0 +1,54 @@
+{
+  "id": "585a8d08-256d-4b8b-b004-738bfbdba4d4",
+  "name": "Retrieve-Next-Arrival-Time-By-Route",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bb09f64e-2378-4741-be52-a84ba9701076",
+          "required": true,
+          "dataType": "@Branch",
+          "name": "route-branch",
+          "value": "$route-branch",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What route?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "2d664f93-2eb1-43af-ae82-f04ab7724a04",
+          "required": true,
+          "dataType": "@Direction",
+          "name": "route-direction",
+          "value": "$route-direction",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What direction?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545616387,
+  "fallbackIntent": false,
+  "events": []
+}

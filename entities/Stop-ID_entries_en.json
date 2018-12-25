@@ -1,0 +1,8 @@
+[
+  {
+    "value": "stop @sys.number-integer:stop-id",
+    "synonyms": [
+      "stop @sys.number-integer:stop-id"
+    ]
+  }
+]

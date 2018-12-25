@@ -1,0 +1,26 @@
+[
+  {
+    "value": "West",
+    "synonyms": [
+      "West"
+    ]
+  },
+  {
+    "value": "East",
+    "synonyms": [
+      "East"
+    ]
+  },
+  {
+    "value": "North",
+    "synonyms": [
+      "North"
+    ]
+  },
+  {
+    "value": "South",
+    "synonyms": [
+      "South"
+    ]
+  }
+]

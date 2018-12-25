@@ -1,0 +1,33 @@
+{
+  "id": "5ffc849d-65ad-4418-9213-a435e36797ba",
+  "parentId": "4c6ecc9a-f415-42c6-9fd3-0c16bec8c939",
+  "rootParentId": "4c6ecc9a-f415-42c6-9fd3-0c16bec8c939",
+  "name": "Process-Location-No",
+  "auto": true,
+  "contexts": [
+    "Process-Location-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Process-Location.Process-Location-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am working on improving my location detecting capabilities. Try again later."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545604654,
+  "fallbackIntent": false,
+  "events": []
+}

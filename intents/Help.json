@@ -1,0 +1,32 @@
+{
+  "id": "84750f06-c3cf-417d-9e71-83068358e6ba",
+  "name": "Help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To get the arrival times for a specific route, you can ask \"When will the next 42 East bus arrive?\". To get the arrival times for a specific stop when you know the stop ID, ask \"Bus arrival times for stop 2505\". To clear you location, you can say \"Clear location\". To exit, just say \"cancel\" or \"exit\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545609414,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "help"
+    }
+  ]
+}

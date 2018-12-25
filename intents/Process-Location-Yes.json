@@ -1,0 +1,39 @@
+{
+  "id": "a80c5c76-9b8a-4cc5-9c04-b808b5248c54",
+  "parentId": "4c6ecc9a-f415-42c6-9fd3-0c16bec8c939",
+  "rootParentId": "4c6ecc9a-f415-42c6-9fd3-0c16bec8c939",
+  "name": "Process-Location-Yes",
+  "auto": true,
+  "contexts": [
+    "Process-Location-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Process-Location.Process-Location-yes",
+      "affectedContexts": [
+        {
+          "name": "Process-Location-Yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545541589,
+  "fallbackIntent": false,
+  "events": []
+}
